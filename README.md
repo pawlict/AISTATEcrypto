@@ -89,3 +89,5 @@ Jeśli chcesz zacząć od razu implementację, przejdź do checklisty i planu sp
 - ✅ Etap 2 został rozpoczęty: endpoint `/flow/{chain}/{entity}` i serwis grafu przepływów w `backend/`.
 - ✅ Etap 3 został rozpoczęty: workspace, role (`owner/analyst/viewer`), watchlista per workspace i izolacja dostępu do `/flow`.
 
+
+Szybki runbook uruchomienia i testów API: `docs/RUNBOOK_STAGE3.md`.

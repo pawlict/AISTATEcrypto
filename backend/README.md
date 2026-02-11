@@ -63,3 +63,7 @@ Przykład:
 curl -H "X-User-Email: owner@example.com" \
   "http://127.0.0.1:8000/flow/btc/bc1...?...&workspace_id=1&max_edges=200"
 ```
+
+
+## Runbook
+Szczegółowa instrukcja uruchomienia i testu Etapu 3: `docs/RUNBOOK_STAGE3.md`.
